@@ -1,0 +1,8 @@
+matplotlib==3.8.2
+numpy==2.3.2
+pandas==2.3.2
+radon==6.0.1
+sacrebleu==2.5.1
+torch==2.7.1+cu128
+tqdm==4.67.1
+transformers==4.55.3
